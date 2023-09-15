@@ -2,6 +2,8 @@
 - 🌱 I’m currently studying in NanKai University
 - 📫 How to reach me: 2113927@mail.nankai.edu.cn
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
