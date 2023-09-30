@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently studying in NanKai University
 - 📫 How to reach me: 2113927@mail.nankai.edu.cn
+- 😡 So many clones and not a single star? I will not update the repository until ddl
 
 <!--
 **easymoneysnipertang/easymoneysnipertang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
