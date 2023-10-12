@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently studying in NanKai University
-- 📫 How to reach me: 2113927@mail.nankai.edu.cn
+- 📫 How to reach me: student_tang@foxmail.com
 - 😡 So many clones and not a single star? I will not update the repository until ddl
 
 <!--
