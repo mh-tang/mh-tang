@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently studying in NanKai University
 - 📫 How to reach me: student_tang@foxmail.com
+- ⚡ My personal blog is under development
 
 <!--
 **easymoneysnipertang/easymoneysnipertang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
