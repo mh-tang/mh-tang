@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently studying in NanKai University
 - 📫 How to reach me: student_tang@foxmail.com
-- 🧑‍💻 Things I plan to do in the near future：
 
 
 <!--
