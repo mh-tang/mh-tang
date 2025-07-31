@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I am Minghao Tang, a first-year M.S. student at the Institute of Computing Technology, Chinese Academy of Sciences, under the guidance Prof. Keping Bi
-- 🔭 I’m interested in information retrieval and LLMs
+- 🔭 I’m interested in Information Retrieval and LLMs
 - 📫 How to reach me: student_tang@foxmail.com
 
 
