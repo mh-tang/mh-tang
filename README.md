@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm **Minghao Tang**, a M.S. student at **Institute of Computing Technology**, Chinese Academy of Sciences, advised by **Prof. Keping Bi**.
+- 🌱 I'm **Minghao Tang**, a M.S. student at [TIME Group](https://stay-hungry-time.github.io/), Institute of Computing Technology, Chinese Academy of Sciences, advised by **Prof. Keping Bi**.
 - 🎓 I received my B.S. degree from **Nankai University** (2021–2025).
 - 🔭 My primary research interests are in **Information Retrieval** and **Large Language Models**.
 - 📫 Feel free to reach me at: student_tang@foxmail.com
